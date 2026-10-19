@@ -1,0 +1,82 @@
+
+K J Somaiya Institute of Technology
+An Autonomous Institute Permanently Affiliated to the University of Mumbai
+
+DEPARTMENT OF INFORMATION TECHNOLOGY
+
+Name of Student : Vrushabh Prakash Patil
+Roll No : B - 61
+Batch : SB4
+
+EXPERIMENT 6
+
+
+
+Aim:
+To Implement Binary Tree and its Traversal for real-world application
+
+
+
+Objective :
+
+To understand the concept and structure of a Binary Tree in Data Structures and Algorithms (DSA).
+To learn how nodes are created and connected to form a binary tree.
+To implement different binary tree traversal techniques, namely Inorder, Preorder, and Postorder traversal.
+To understand the practical applications of binary trees in real-world scenarios, such as hierarchical data organization and decision-making systems.
+To develop a program that demonstrates the construction and traversal of a binary tree.
+
+
+Theory :
+
+A Binary Tree is a non-linear data structure in which each node can have at most two children, known as the left child and the right child. The topmost node is called the root, while nodes that do not have any children are called leaf nodes. Binary trees are widely used to represent hierarchical relationships and organize data efficiently.
+Tree traversal is the process of visiting every node in a binary tree in a specific order. The three common depth-first traversal techniques are Inorder, Preorder, and
+Postorder traversal.
+
+In Inorder Traversal, nodes are visited in the order Left, Root, Right. In Preorder Traversal, nodes are visited in the order Root, Left, Right. In Postorder Traversal, nodes are visited in the order Left, Right, Root. These techniques are useful for processing tree data in different sequences.
+Binary trees have several real-world applications. For example, they can represent decision-making processes, file-system hierarchies, and expression evaluation in mathematical calculations. In a binary search tree, data can also be organized to support efficient searching, insertion, and deletion.
+
+
+
+
+
+Program :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outcome :
+
+The binary tree data structure was studied and implemented successfully. The creation of tree nodes and the relationships between parent and child nodes were understood. The Inorder, Preorder, and Postorder traversal techniques were implemented to visit and process the nodes in different sequences. The practical also demonstrated the importance of binary trees in organizing hierarchical data and solving real-world problems.
+
+
+
+Conclusion :
+
+Thus, the implementation of a Binary Tree and its Traversal Techniques was studied successfully. The practical provided an understanding of binary tree construction and the Inorder, Preorder, and Postorder traversal methods. It also highlighted the importance of binary trees in hierarchical data representation, decision-making, and efficient data processing in real-world applications.
+
